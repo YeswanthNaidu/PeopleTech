@@ -53,8 +53,7 @@
  * false; Book other = (Book) obj; return Objects.equals(author, other.author)
  * && id == other.id && Objects.equals(name, other.name) &&
  * Objects.equals(publisher, other.publisher) && quality == other.quality; }
- * public String getName() { // TODO Auto-generated method stub return null; }
- * 
+ * public String getName() { // TODO Auto-generated method stub return null; } }
  * 
  * }
  */

@@ -1,4 +1,5 @@
-package Assignment;
+package Assignment3;
+
 
 import java.util.HashSet;
 import java.util.Iterator;
@@ -35,4 +36,3 @@ public class UniqueChar {
 	}
 
 }
- 
